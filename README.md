@@ -28,3 +28,6 @@
 ![wikipedia searching](https://user-images.githubusercontent.com/65504875/148657166-361d9e93-3495-4ec5-91fb-77b802edb02a.jpg)
 
 ### *All other outputs are in audio format*
+
+## SCOPE
+- For anyone seeking a personalized voice assistant to reduce workload and automate daily tasks.
